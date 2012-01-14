@@ -9,49 +9,27 @@ New game creates a new character. permadeath exists. on death, a new contestant 
 	name choosing: 	user defined name followed by 'title' made from words given by the game in the format 'head puncher' or 'disc eater'.
 					this would allow for things like "looks like john punched his last head!" from the commentator.
 	
-	levels: 		first level should be a 'town' type area maybe a briefing room or a lounge where a random selection of 
-					items are given to you (like battle royale).subsequent levels would be networks of dungeon like rooms 
-					with enemies and items. after several levels there would be an 'ad break' where you would go to another 
-					lounge area and maybe be able to trade items and use other functions. this would continue until the end.
+	levels: 		first level should be a 'town' type area maybe a briefing room or a lounge where a random selection of items are given to you (like battle royale).subsequent levels would be networks of dungeon like rooms with enemies and items. after several levels there would be an 'ad break' where you would go to another lounge area and maybe be able to trade items and use other functions. this would continue until the end.
 	
-	level content:	levels should contain traps, weapons, ammo and other humans as well as possibly robotic enemies. each level
-					could contain another 'contestant' which you can kill and get a special item. there should be a chance that 
-					in each room in a dungeon an effect could be triggered by the game show organizers for that room, like the 
-					lights go out or the room is dotted with spots of fire. levels should also have immovable computer terminals 
-					which can take CDs.
+	level content:	levels should contain traps, weapons, ammo and other humans as well as possibly robotic enemies. each level	could contain another 'contestant' which you can kill and get a special item. there should be a chance that in each room in a dungeon an effect could be triggered by the game show organizers for that room, like the 	lights go out or the room is dotted with spots of fire. levels should also have immovable computer terminals which can take CDs.
 					
 ITEMS:
 	weapons
-		the majority of weapons should be melee. default weapon is hands, with which you can either punch or grapple grappling 
-		allows you to either punch the enemy harder or throw them. there should be a clear weapon hierarchy; wooden weapons are 
-		weakest, steel weapons are stronger, mechanical weapons (or something) are stronger etc. with some exceptions for weapons 
-		with special abilities.
+		the majority of weapons should be melee. default weapon is hands, with which you can either punch or grapple grappling allows you to either punch the enemy harder or throw them. there should be a clear weapon hierarchy; wooden weapons are weakest, steel weapons are stronger, mechanical weapons (or something) are stronger etc. with some exceptions for weapons with special abilities.
 		
-		another class of weapons is ranged weapons. like in shiren ranged weapons can only be shot diagonally or in cardinal 
-		directions. each player is provided at the beginning of the game with an empty pistol which they find various types of 
-		ammo for, most of which are rare. other ranged weapons should include boomerangs (chance to instantly regain ammo) and 
-		grenades/glass orbs which can be thrown and might have an effect, e.g. poison, stun etc.
+		another class of weapons is ranged weapons. like in shiren ranged weapons can only be shot diagonally or in cardinal directions. each player is provided at the beginning of the game with an empty pistol which they find various types of ammo for, most of which are rare. other ranged weapons should include boomerangs (chance to instantly regain ammo) and grenades/glass orbs which can be thrown and might have an effect, e.g. poison, stun etc.
 	
 	armour
 		i don't know.
 		
 	DUCT TAPE!
-		different kinds duct tape should be found throughout the game. different duct tapes should have different functions such 
-		as repairing items, combining items, morphing items etc. some duct tape can be used on two items or one, duct tape should 
-		have between 3 and 6 uses per roll.
-		
+		different kinds duct tape should be found throughout the game. different duct tapes should have different functions such as repairing items, combining items, morphing items etc. some duct tape can be used on two items or one, duct tape should have between 3 and 6 uses per roll.	
 	CDs
-		CDs essentially replace scrolls in the game, but cannot be used with out being inserted into a computer terminal (maybe 
-		there is a laptop as an item) and will usually break after one use. different CDs could include 'encyclopedia CD' (identify scroll),
-		'blank CD-R' (blank scroll), 'Quake' (strength +1).
+		CDs essentially replace scrolls in the game, but cannot be used with out being inserted into a computer terminal (maybe there is a laptop as an item) and will usually break after one use. different CDs could include 'encyclopedia CD' (identify scroll), 'blank CD-R' (blank scroll), 'Quake' (strength +1).
 		
 	Masks
-		Masks will take the place of rings. would give effects such as increased strength or the ability to disguise as a particular NPC.
-		other special masks could include a mirror mask that makes an NPC think that you are them if you are facing them, and makes them see 
-		whatever is diagonal to you if you are diagonal to them.
+		Masks will take the place of rings. would give effects such as increased strength or the ability to disguise as a particular NPC. other special masks could include a mirror mask that makes an NPC think that you are them if you are facing them, and makes them see whatever is diagonal to you if you are diagonal to them.
 		
 Enemies:
-	Enemies should take the form of either robots hired by the network, miscellaneous vagrants, junkies, fiends and criminals too! every enemy
-	should have an effect or special attack such as poisoning, flying, ranged attack, fast movement etc. if an enemy kills another enemy by mistake,
-	it will 'steal' it's 'equipment' and thereby be able to use that enemys special effect  as well as it's own. enemies have a chance to drop loot.
+	Enemies should take the form of either robots hired by the network, miscellaneous vagrants, junkies, fiends and criminals too! every enemy should have an effect or special attack such as poisoning, flying, ranged attack, fast movement etc. if an enemy kills another enemy by mistake,	it will 'steal' it's 'equipment' and thereby be able to use that enemys special effect  as well as it's own. enemies have a chance to drop loot.
 		
