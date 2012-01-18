@@ -1,0 +1,44 @@
+body {
+    background: black;
+	margin    : 0 auto;
+	height    : 100%;
+	font      : normal medium 'Gill Sans','Gill Sans MT','Goudy Bookletter 1911','Linux Libertine O','Liberation Serif',Candara,serif;
+}
+
+footer, header {
+	text-align: center;
+	background: black;
+	color     : white;
+}
+
+a {
+	color          : gray;
+	background     : transparent;
+	text-decoration: none;
+	border-bottom  : 1px dotted;
+}
+
+nav ul{
+	color     : black;
+	background: white;
+	margin    : 0;
+	padding   : 0.5em 1em 0.5em 0;
+	text-align: center;
+}
+
+nav li {
+	display     : inline;
+	padding-left: 1em;
+}
+
+nav a {
+	color: black;
+}
+
+canvas {
+	margin         : auto;
+	image-rendering: -moz-crisp-edges;
+	text-rendering : optimizeSpeed;
+	width          : 640px;
+	height         : 480px;
+}
